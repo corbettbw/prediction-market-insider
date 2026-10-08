@@ -1,5 +1,5 @@
 data/raw/
-data/processed/
+data/processed/*
 !data/processed/cluster_assignments.parquet
 outputs/
 .DS_Store
